@@ -1,0 +1,12 @@
+packages needed
+
+
+make sure you have a valid API key 
+
+
+
+packages ---->
+
+
+              torch
+              transformers
